@@ -1,3 +1,6 @@
+import packages_config
+import variables_config
+
 def roll_dice():
     return random.randint(1, 6)
 
