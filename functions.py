@@ -25,3 +25,5 @@ def play_game():
     print("🎉 Congratulations! You won!")
 
 #end
+
+play_game()
